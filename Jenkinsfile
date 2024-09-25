@@ -12,6 +12,7 @@ pipeline {
                     sh 'cp -r * dist/' // Copy all files to the dist folder
                     
                 }
+            }
         }
     }
 
